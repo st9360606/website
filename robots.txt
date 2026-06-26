@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://caloshape.com/sitemap.xml
